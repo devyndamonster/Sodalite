@@ -1,0 +1,608 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.Api.LeaderboardAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.Api.LeaderboardAPI.html",
+          "hash": "Pcau4yQ6vdLEiNwfwwHcYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.Api.LockablePanelAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.Api.LockablePanelAPI.html",
+          "hash": "SkJZoCfNnd1YLAXAd/+tgA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.html",
+          "hash": "lZncxZVb+PdZAscReo0yvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.Api.SosigAPI.SpawnOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.Api.SosigAPI.SpawnOptions.html",
+          "hash": "U9cGQ0rPUkaZmjCcrUllLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.Api.SosigAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.Api.SosigAPI.html",
+          "hash": "S8WIS2IU4k+xdRYrbD/lXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.Api.WristMenuAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.Api.WristMenuAPI.html",
+          "hash": "Twlf8F8UIEsAaytWkWrarA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.Api.WristMenuButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.Api.WristMenuButton.html",
+          "hash": "qprMS4lcrhzO4K5oLdf0Fw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.Api.html",
+          "hash": "+tQDVW4J7/rRoHTf/cnK9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.BepInExLogPanel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.BepInExLogPanel.html",
+          "hash": "1juKkl9dIJpw3igqTlrleQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.CoroutineUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.CoroutineUtils.html",
+          "hash": "Hlr5rXLW3EdYUtmo+NIvoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.Extensions.html",
+          "hash": "hKr2fY9aAOkgUjy2M/QWtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.FireSelectorMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.FireSelectorMode.html",
+          "hash": "v69YbC0YoufOB2oh+y7UvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.FireSelectorModeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.FireSelectorModeType.html",
+          "hash": "tpaEzgqmgLfSpU5KnNgE+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.FirearmUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.FirearmUtils.html",
+          "hash": "mCqr9bNDoXWNCkUMf0mSKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.H3Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.H3Api.html",
+          "hash": "jt7FaIeQvLwty4moGBHERg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.LockablePanel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.LockablePanel.html",
+          "hash": "6ys560PEtP4NAcvqTB3qEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.ObservableHashSet-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.ObservableHashSet-1.html",
+          "hash": "7O0Y1B7zMNfIQ99+LvopUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.SavedGunComponentSerializable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.SavedGunComponentSerializable.html",
+          "hash": "uqaYZU2eW+88QvZcqKtHmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.SavedGunSerializable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.SavedGunSerializable.html",
+          "hash": "CVsl+95sDnKtLzxEwl/ojw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.ScrollPointable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.ScrollPointable.html",
+          "hash": "P6tZbj51NQDqvB3H1TFH2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.Sodalite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.Sodalite.html",
+          "hash": "KkySrsihXsDs/Y/j+stbAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.UiWidgets.ButtonWidget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.UiWidgets.ButtonWidget.html",
+          "hash": "qHFTcFi5ySfgAleTzFTBqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.UiWidgets.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.UiWidgets.Extensions.html",
+          "hash": "tNga5Um+/MXI5206oBagNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.UiWidgets.GridLayoutWidget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.UiWidgets.GridLayoutWidget.html",
+          "hash": "+gc3ezZg0NZQwroFeOy8rw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.UiWidgets.HorizontalLayoutWidget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.UiWidgets.HorizontalLayoutWidget.html",
+          "hash": "xoUAhGvmYFXpAY/WjzBviQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.UiWidgets.LayoutWidget-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.UiWidgets.LayoutWidget-1.html",
+          "hash": "3t2odYk4w0godWOij/s3tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.UiWidgets.MenuWidget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.UiWidgets.MenuWidget.html",
+          "hash": "MIDjXju+GzNwc+sEyd9GBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.UiWidgets.PagedWidget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.UiWidgets.PagedWidget.html",
+          "hash": "yWWe0EvkimlZMyiJJflR0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.UiWidgets.TextWidget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.UiWidgets.TextWidget.html",
+          "hash": "040TjZDsLPTBU3EtCpz1hw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.UiWidgets.UiWidget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.UiWidgets.UiWidget.html",
+          "hash": "z1A37RxcKHl2x2QnNbchpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.UiWidgets.VerticalLayoutWidget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.UiWidgets.VerticalLayoutWidget.html",
+          "hash": "IHC2+J3iY7QKGQqfK/uX4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.UiWidgets.WidgetStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.UiWidgets.WidgetStyle.html",
+          "hash": "Lj6AkOllWn9aUVGUpMwq0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.UiWidgets.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.UiWidgets.html",
+          "hash": "ikj6RTcaEuDnbfrIJ4xwaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.Utilities.html",
+          "hash": "BLjOs8sN/HvSRELo6XEDaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.VaultUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.VaultUtils.html",
+          "hash": "pY0LLizp6yWbDm62EsxPVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.Vector2Serializable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.Vector2Serializable.html",
+          "hash": "keSGqc2psHMYtMeCogqLYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.Vector3Serializable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.Vector3Serializable.html",
+          "hash": "3o6Avx4pU/djrYZFDTdjvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sodalite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sodalite.html",
+          "hash": "2dgyHEBWYKRC2DAod4CEWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "xUqqn8TsuBcRxaSLWRr9Og=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "iIgYBWlXoeL/yLTQLhvgmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/getting_started.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/getting_started.html",
+          "hash": "ERE/aFv1xzWs9buxpp5xEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/home.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/home.html",
+          "hash": "BiPXrkjb1zZKgRc4Mfst/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "YOZOB4IG0phLGl0sogESmQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "xGyjbK2q8xc9caaBWU53EA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "pull_request_template.md",
+      "output": {
+        ".html": {
+          "relative_path": "pull_request_template.html",
+          "hash": "E+ID7sLwuo9OC1Dx4Vgq1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "AY2UJcFCUivupMlOW0IeJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 5,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 38,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
